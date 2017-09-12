@@ -7,7 +7,15 @@ date: 2017-09-05
 image: 
         
 ---
-        "In the online world, there is one problem that indicates the need for change the most. This was discussed in class when we talked about Moscow One, the plan for all data about Russians to be stored in Russia. This idea indicates some positive and negative things about the state of data accessibility and control. 
+        
+        
+        
+        
+        
+        
+        
+        
+ "In the online world, there is one problem that indicates the need for change the most. This was discussed in class when we talked about Moscow One, the plan for all data about Russians to be stored in Russia. This idea indicates some positive and negative things about the state of data accessibility and control. 
 
 The first thoughts I had about this were primarily negative. I do not trust my government to responsibly access and control the data of all citizens, especially citizens who follow Islam or are from the middle east, as our country is currently in the midst of a near witch hunt on terrorism as they try and pin down the sources of lone cell attacks. Leakers like Edward Snowden have shown direct evidence that the United State Government combs through the data it collects even when they do not have any reason to. Linking back to Russia, one major issue I see with their collection of data is their abhorrent prosecuting and killing of LGBT people in areas like Chechnya, where there have been anti-gay pogroms organized and executed by the government. I see no reason to doubt that they could and would use data that they have on their citizens to identify possible homosexuals. If your online actions carry as much weight as the actions you take in the real world, then you have a right to some privacy in these actions. Otherwise, you will be left with a big brother situation where any small misstep online could be used to identify and track you, even if your actions are not criminal. 
 
